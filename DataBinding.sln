@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBinding", "DataBinding\DataBinding.csproj", "{22D0647E-4575-4CDA-9F30-94735430A066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicDataBinding", "DynamicDataBinding\DynamicDataBinding.csproj", "{3D92724B-38E4-4464-976C-4D79DC4020E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D0647E-4575-4CDA-9F30-94735430A066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D0647E-4575-4CDA-9F30-94735430A066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D0647E-4575-4CDA-9F30-94735430A066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D0647E-4575-4CDA-9F30-94735430A066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D92724B-38E4-4464-976C-4D79DC4020E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D92724B-38E4-4464-976C-4D79DC4020E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D92724B-38E4-4464-976C-4D79DC4020E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D92724B-38E4-4464-976C-4D79DC4020E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB2393DF-C073-476E-BD1A-28D8FE2F3912}
+	EndGlobalSection
+EndGlobal
